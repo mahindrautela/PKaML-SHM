@@ -5,7 +5,8 @@
 #### This code is a part of the work presented in the paper:
 
 ### **Paper: Combined two-level damage identification strategy using ultrasonic guided waves and physical knowledge assisted machine learning**
-### DOI: 
+#### *https://www.sciencedirect.com/science/article/abs/pii/S0041624X2100086X*
+### DOI: 10.1016/j.ultras.2021.106451 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Basic Details:
 
