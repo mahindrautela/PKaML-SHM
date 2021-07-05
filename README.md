@@ -18,6 +18,8 @@
 
 #### - For more information, you can write to me at my email id given in the paper.
 
+#### - To get the datasets mentioned in the codes, send an email to me.
+
 ### Main Details:
 
 #### - There are 2 files in the main directory.
