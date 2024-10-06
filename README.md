@@ -4,7 +4,7 @@
 * For GWSHM, we have used domain knowledge of (a) digital band-pass filter design and visualization, (b) cross-statistical feature engineering, (c) channel and frequency preferencing, (d) physics of ultrasonic guided wave propagation and Time Of Flight (TOF) based signal windowing, (e) signal augmentation with noise to preprocess the dataset before feeding into a network.  
 
 <p align="center">
-  <img src="images/pkaml.png" width="500" height="400" />
+  <img src="images/pkaml.png" width="600" height="400" />
 </p>
 
 -------
